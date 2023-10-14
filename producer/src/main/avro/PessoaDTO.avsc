@@ -1,0 +1,23 @@
+{
+    "namespace": "br.com.learn.producer.model",
+    "type": "record",
+    "name": "PessoaDTO",
+    "fields": [
+        {
+            "name": "name",
+            "type": "string"
+        },
+        {
+            "name": "name",
+            "type": [
+                "string"
+            ]
+        },
+        {
+            "name": "sobrenome",
+            "type": [
+                "string"
+            ]
+        }
+    ]
+}

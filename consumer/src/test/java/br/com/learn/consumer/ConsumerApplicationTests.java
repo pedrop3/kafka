@@ -1,10 +1,10 @@
-package br.com.learn.kafka;
+package br.com.learn.consumer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class KafkaApplicationTests {
+class ConsumerApplicationTests {
 
 	@Test
 	void contextLoads() {
